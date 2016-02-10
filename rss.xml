@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[FischersFiresidechatsInternational]]></title>
         <description><![CDATA[FischersFiresidechatsInternational]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fischersfiresidechatsinternational/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 14:22:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 14:26:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fischersfiresidechatsinternational/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The sometimes “fiery” topics of diversity, multiculturalism, and identity are best broached in a warm, intimate, informal, yet informed manner. This website, the workshops offered, and the general mission of Fischer’s Fireside Chats is to get people talking about diversity. As people gain experience and knowledge about the positives of what diversity has to offer their lives become enriched.</p>]]></description>
-            <link>undefined674c9c9a-a99b-4d8f-b2e2-53e5aa7fbc22/index.html</link>
+            <link>https://thegrid.ai/fischersfiresidechatsinternational/674c9c9a-a99b-4d8f-b2e2-53e5aa7fbc22/index.html</link>
             <guid isPermaLink="false">674c9c9a-a99b-4d8f-b2e2-53e5aa7fbc22</guid>
             <pubDate>Wed, 10 Feb 2016 14:22:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Fireside Chats are diversity discussions for individuals that provide an informal space where participants can engage in mindful and constructive conversations about the relevance and role of diversity in their daily lives. These provide a learning space to explore how identities can effect business, education, media, health, politics and religion.</p>]]></description>
+            <link>https://thegrid.ai/fischersfiresidechatsinternational/8917f821-50bb-410b-9f0c-bb9687dbb1a7/index.html</link>
+            <guid isPermaLink="false">8917f821-50bb-410b-9f0c-bb9687dbb1a7</guid>
+            <pubDate>Wed, 10 Feb 2016 14:25:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
