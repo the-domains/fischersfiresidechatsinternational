@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[FischersFiresidechatsInternational]]></title>
+        <description><![CDATA[FischersFiresidechatsInternational]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 10 Feb 2016 14:22:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The sometimes “fiery” topics of diversity, multiculturalism, and identity are best broached in a warm, intimate, informal, yet informed manner. This website, the workshops offered, and the general mission of Fischer’s Fireside Chats is to get people talking about diversity. As people gain experience and knowledge about the positives of what diversity has to offer their lives become enriched.</p>]]></description>
+            <link>undefined674c9c9a-a99b-4d8f-b2e2-53e5aa7fbc22/index.html</link>
+            <guid isPermaLink="false">674c9c9a-a99b-4d8f-b2e2-53e5aa7fbc22</guid>
+            <pubDate>Wed, 10 Feb 2016 14:22:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
