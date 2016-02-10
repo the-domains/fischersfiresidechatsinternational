@@ -1,7 +1,7 @@
 name: FischersFiresidechatsInternational
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.50711
+layout_spectrum: 0.020807283464819193
+typography_spectrum: 0.04792184731923044
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#060201'
-    - '#fffbba'
-    - '#78300c'
-    - '#b7651b'
-    - '#eb9738'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
   brandStrength: 0.5127020296640694
   lightness: 0.4948072759434581
   saturation: 0.5640168781392276
